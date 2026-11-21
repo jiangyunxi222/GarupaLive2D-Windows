@@ -1,10 +1,10 @@
-# GarupaLive2D
+# GarupaLive2D-Windows
 
 ![Garupa 角色包 · 长崎爽世 模型展示](docs/media/cover.png)
 
 《BanG Dream! 少女乐团派对！》Live2D 角色库。收录 Poppin’Party、Roselia、Pastel＊Palettes 等乐团，以及 MyGO!!!!! 和 Ave Mujica 的 Garupa 版本。衣装、动作、表情与语音按角色整合。
 
-**[挑选角色 ZIP](https://github.com/jiangyunxi222/GarupaLive2D/releases/latest)** · [下载示例 · 长崎爽世](https://github.com/jiangyunxi222/GarupaLive2D/releases/download/V261116/garupa_Soyo_Nagasaki_V261116.zip) · [Steam 创意工坊 · 长崎爽世](https://steamcommunity.com/sharedfiles/filedetails/?id=3838812468) · [获取 BandoriLovePet](https://github.com/jiangyunxi222/BandoriLovePet/releases)
+**[挑选角色 ZIP](https://github.com/jiangyunxi222/GarupaLive2D-Windows/releases/latest)** · [下载示例 · 长崎爽世](https://github.com/jiangyunxi222/GarupaLive2D-Windows/releases/download/V261116/garupa_Soyo_Nagasaki_V261116.zip) · [Steam 创意工坊 · 长崎爽世](https://steamcommunity.com/sharedfiles/filedetails/?id=3838812468) · [获取 BandoriLovePet](https://github.com/jiangyunxi222/BandoriLovePet/releases)
 
 **V261116 提供 45 个单角色 ZIP。** 发布页按乐团排列，下载时选择 **Assets** 里带角色全名的 ZIP。
 
@@ -62,7 +62,7 @@ Windows 也可导入解压后的 `00_integrated.model.json`。[BandoriLovePet �
 <details>
 <summary>展开全部角色与衣装数量</summary>
 
-以下为仓库收录的角色和衣装。可直接下载的单角色 ZIP 见 [角色发布页](https://github.com/jiangyunxi222/GarupaLive2D/releases/latest)。
+以下为仓库收录的角色和衣装。可直接下载的单角色 ZIP 见 [角色发布页](https://github.com/jiangyunxi222/GarupaLive2D-Windows/releases/latest)。
 
 | 团体 | 角色 | 衣装数 | 整合入口 |
 | Afterglow | 上原绯玛丽 | 109 | [导入入口](<Afterglow/上原绯玛丽/00_integrated.model.json>) |
